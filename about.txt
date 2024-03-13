@@ -1,0 +1,8 @@
+Pre-requisite:
+- Create env: python -m venv venv
+- Activate env: venv\Scripts\activate
+- Install dependencies: pip install -r requirements.txt
+- For python kernel: pip install ipykernel
+
+Note:
+
