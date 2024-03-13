@@ -1,8 +1,8 @@
+os
 streamlit
-google-generativeai
-python-dotenv
-langchain
-PyPDF2
-chromadb
-faiss-cpu
+llama_index.core
+google.generativeai
 langchain_google_genai
+traceback
+langchain_openai
+langchain_community_chat_models
