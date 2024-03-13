@@ -10,7 +10,8 @@ from langchain_google_genai import ChatGoogleGenerativeAI
 import traceback
 
 #openai_api_key = os.getenv("OPENAI_API_KEY")
-genai.configure(api_key=os.getenv("GOOGLE_API_KEY"))
+#genai.configure(api_key=os.getenv("GOOGLE_API_KEY"))
+google_api_key = os.getenv("GOOGLE_API_KEY")
 
 # Simple Streamlit app
 st.set_page_config(page_title="Strata Property in Malaysia", page_icon=":house:", layout="wide")
